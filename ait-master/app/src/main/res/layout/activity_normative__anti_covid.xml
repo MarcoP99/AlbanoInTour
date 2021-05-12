@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryBackground"
+    tools:context=".Normative_AntiCovid">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/normativeToolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorPrimary"
+        android:elevation="4dp"
+        android:title="Normative Anti-Covid"
+        android:titleTextColor="@color/black"
+        app:navigationIcon="@drawable/ic_arrow_back">
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/normativeCard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/normativeToolbar"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginTop="20dp"
+        app:cardBackgroundColor="@color/white">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/titoloNormative"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Normative Anti-Covid"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:textStyle="bold">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/indicazioniNormative"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/titoloNormative"
+                android:layout_marginHorizontal="15dp"
+                android:layout_marginBottom="15dp"
+                android:text="In osservanza del DPCM del 14 Gennaio 2021 n.2, si raccomanda di osservare le seguenti misure di contenimento per la diffusione del virus: \n-Indossare sempre la mascherina anche all'aperto\n- Mantienere la distanza di sicurezza di almeno un metro\n-Qualora dovessero insorgere sintomi influenzali e/o temperatura corporea al di sopra dei 37,5 gradi, rimanere a casa e contattare un dottore."
+                android:textColor="@color/black"
+                android:textSize="20sp"/>
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>
