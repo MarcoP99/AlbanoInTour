@@ -1,0 +1,22 @@
+Uomo, 21 anni
+
+1) Qual è l'ultimo luogo di interesse che hai visitato?
+	- Palazzo Farnese a Caprarola (VT).
+2) Quale aspetto ti è rimasto maggiormente impresso?
+	- La sua geometricità e la sua cura.
+3) Generalmente cosa ti interessa di più sapere riguardo ad monumento/edificio/... che visiti?
+	- Mi interessa principalmente l’analisi strutturale.
+4) Generalmente quando visiti una città su cosa ti concentri? Chiese, musei, edifici storici...
+	- Musei, edifici storici e parchi.
+5) Sei interessato/a agli eventi culturali? Se sì, c'è una tipologia in particolare che ti interessa?
+	- Non sono interessato a tutti gli eventi culturali, ma solitamente sono interessato a concerti, principalmente di musica classica, e mostre.
+6) Hai mai visitato Albano?
+	- Sì, ci vivo.
+7a) Se si, cosa hai visitato?
+	- Le catacombe di San Senatore, i cisternoni, la chiesa di San Pietro, la cattedrale di San Pancrazio, l’anfiteatro, la tomba degli Orazi e Curiazi.
+8) Ti è sembrato che fossero disponibili sufficienti informazioni in loco?
+	- Non sufficientemente.
+9) Che altri luoghi d'interesse di Albano conosci?
+	- Temo di non conoscerne più.
+10) Credi che le indicazioni per raggiungerli siano chiare e sufficienti?
+	- Se intendi indicazioni stradali, dipende da quale monumento, ma generalmente direi non sufficienti.

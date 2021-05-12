@@ -1,0 +1,22 @@
+Uomo, 21 anni
+
+1) Qual è l'ultimo luogo di interesse che hai visitato?
+	- Piazza del Campidoglio.
+2) Quale aspetto ti è rimasto maggiormente impresso?
+	- L’architettura.
+3) Generalmente cosa ti interessa di più sapere riguardo ad monumento/edificio/... che visiti?
+	- Periodo, autore, storia del progetto, curiosità interessanti.
+4) Generalmente quando visiti una città su cosa ti concentri? Chiese, musei, edifici storici...
+	- Chiese, musei, edifici storici, edifici contemporanei, parchi, eventi, punti panoramici, luoghi caratteristici o sconosciuti ai turisti, ristoranti tipici e non turistici, mercatini.
+5) Sei interessato/a agli eventi culturali? Se sì, c'è una tipologia in particolare che ti interessa?
+	- Sagre, ricorrenze e celebrazioni tradizionali, concerti, spettacoli, eventi di intrattenimento nelle piazze e nei parchi, installazioni particolari.
+6) Hai mai visitato Albano?
+	- Sì.
+7a) Se si, cosa hai visitato?
+	- Il corso, villa doria, anfiteatro severiano, piazza pia, cattedrale di san pancrazio, san pietro.
+8) Ti è sembrato che fossero disponibili sufficienti informazioni in loco?
+	- Non ho notato cartelli o indicazioni se non indicazioni stradali e nomi delle piazze e delle vie.
+9) Che altri luoghi d'interesse di Albano conosci?
+	- So che ci sono le catacombe, tomba degli Orazi e Curiazi e il museo civico.
+10) Credi che le indicazioni per raggiungerli siano chiare e sufficienti?
+	- Non ho notato cartelli o mappe che aiutino a capire dove si trovano i posti.

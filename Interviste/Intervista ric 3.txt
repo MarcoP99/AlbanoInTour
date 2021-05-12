@@ -1,0 +1,16 @@
+Uomo, 17 anni
+
+1) Qual è l'ultimo luogo di interesse che hai visitato?
+	- New York.
+2) Quale aspetto ti è rimasto maggiormente impresso?
+	- L'altezza dei grattacieli.
+3) Generalmente cosa ti interessa di più sapere riguardo ad monumento/edificio/... che visiti?
+	- Quando è stato costruito.
+4) Generalmente quando visiti una città su cosa ti concentri? Chiese, musei, edifici storici...
+	- Edifici storici.
+5) Sei interessato/a agli eventi culturali? Se sì, c'è una tipologia in particolare che ti interessa?
+	- No.
+6) Hai mai visitato Albano?
+	- No.
+7b) Se no, hai mai sentito parlare di luoghi d'interesse ivi presenti?
+	- No.
